@@ -1,5 +1,9 @@
 function Home() {
-    return <div>Hello World</div>
+    return (
+        <div>
+            <iframe src="kepler.gl.html"></iframe>
+        </div>
+    )
 }
 
 export default Home
