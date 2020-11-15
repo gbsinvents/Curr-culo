@@ -1,7 +1,7 @@
 function Home() {
     return (
         <div>
-            <iframe src="kepler.gl.html"></iframe>
+           <h1>Guilherme Biazi Sabin</h1>
         </div>
     )
 }
